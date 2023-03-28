@@ -1,0 +1,8 @@
+{
+  "name": "playernguyen-statistic",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  }
+}
